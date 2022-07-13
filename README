@@ -1,14 +1,28 @@
 Valorant flags that can lead to a ban
 
 Level 1 (instant/delay banned):
+Traces
 Cheat detection
-disk id
-motherborad uuid/serial
+Disk id
+Motherborad uuid/serial
+Volume ID
 Manual Reviews
-Amd cpu serials
+TBM modules on
 
 Level 2 (Cheater Association):
+// Mostly won't lead to a ban, but it's good to change them.
 Credit cards
-mac address
-ip address
-Queing with banned cheaters many accounts.
+Mac address
+Ip address
+Monitor serials/id
+Queuing with banned cheaters on many accounts.
+
+Level 3 (Devs elimination):
+// If gamerdoc has your riot ID and he knows you are a cheat developer.
+He can:
+ Put traces on:
+   Mouse / Keyboard / Monitor / Drives / Motherboard / CPU / IP / Mac.
+ Dump your memory with your cheat injected.
+
+As always, stay safe and UD!
+Keep it private and don't flex around!  
